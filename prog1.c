@@ -1,6 +1,6 @@
 #include <stdio.h> // Necessary for printf()
 #include <stdlib.h>
-#include <time.h> // for generating pseudorandom numbers
+#include <time.h> 
 
 
 
